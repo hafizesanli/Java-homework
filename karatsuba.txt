@@ -1,0 +1,29 @@
+x = 12  y = 6
+x = 12  y = 6
+x = 12  y = 6  n = 2
+x = 12  y = 6  n = 2
+x = 12  y = 6  n = 1
+x = 12  y = 6  n = 1  b = 6
+x = 12  y = 6  n = 1  b = 6  a = 0
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0
+x = 0  y = 0
+x = 0  y = 0  n = 1
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0  ac = 0
+x = 6  y = 3
+x = 6  y = 3  n = 1
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0  ac = 0
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0  ac = 0  bd = 18
+x = 6  y = 3
+x = 6  y = 3  n = 1
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0  ac = 0  bd = 18
+x = 12  y = 6  n = 1  b = 6  a = 0  d = 3  c = 0  ac = 0  bd = 18  abcd = 18
+x = 12  y = 6
+x = 12  y = 6  z = 72
+x = 12  y = 6  z = 72
+End
+End the program
+
+
+
